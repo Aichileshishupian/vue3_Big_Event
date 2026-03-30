@@ -22,5 +22,5 @@ export default defineConfig({
     },
   },
   // 👇 只加这一段，用来适配 GitHub Pages
-  base: '/vue3_big_event/',
+  base: '/vue3_Big_Event/',
 })
